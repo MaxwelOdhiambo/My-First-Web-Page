@@ -1,13 +1,19 @@
 
 body{
   background-color: #00ffff;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
   text-align: center;
 }
+
 h1{
 color: #0000ffaa;
 text-align: center;
 background-color: #808080;
-
+height: 50px;
+width: 1045px;
 
 }
 h2 {
@@ -17,8 +23,14 @@ h2 {
 }
 p {
   font-family:sans-serif;
+  border-style:solid;
 }
-ul {
-  line-height: 40px;
+ol {
+  line-height: 20px;
+  padding-left: 50px
 
+}
+ul{
+  line-height: 20px;
+  padding-left: 50px;
 }
