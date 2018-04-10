@@ -1,8 +1,14 @@
 
-
+body{
+  background-color: #00ffff;
+  text-align: center;
+}
 h1{
-color: blue;
+color: #0000ffaa;
 text-align: center;
+background-color: #808080;
+
+
 }
 h2 {
   color: green;
@@ -10,8 +16,9 @@ h2 {
   text-align: center;
 }
 p {
-  font-family: sans-serif;
+  font-family:sans-serif;
 }
 ul {
   line-height: 40px;
+
 }
